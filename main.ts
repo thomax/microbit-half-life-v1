@@ -1,5 +1,4 @@
 function resetLeds () {
-    led.setBrightness(255)
     basic.showLeds(`
         # # # # #
         # # # # #
